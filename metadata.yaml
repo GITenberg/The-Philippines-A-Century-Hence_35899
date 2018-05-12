@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2229
     wikipedia: http://en.wikipedia.org/wiki/Austin_Craig
 description: 'Translation of: Filipinas dentro de Cien Años'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35899#The-Philippines-A-Century-Hence
 gutenberg_issued: '2011-04-18'
 gutenberg_type: Text
 identifiers:
