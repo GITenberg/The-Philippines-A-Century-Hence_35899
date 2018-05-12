@@ -1,0 +1,43 @@
+_repo: The-Philippines-A-Century-Hence_35899
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Derbyshire, Charles E.
+    gutenberg_agent_id: '4931'
+    url: http://www.gutenberg.org/2009/agents/4931
+covers:
+- cover_type: archival
+  image_path: 35899-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rizal, José
+    aliases:
+    - Rizal Mercado y Alonzo Realonda, José Protasio
+    - Rizal, Jose
+    birthdate: 1861
+    deathdate: 1896
+    gutenberg_agent_id: '2183'
+    url: http://www.gutenberg.org/2009/agents/2183
+    wikipedia:
+    - http://en.wikipedia.org/wiki/José_Rizal
+    - http://www.joserizal.ph/
+  editor:
+    agent_name: Craig, Austin
+    birthdate: 1872
+    gutenberg_agent_id: '2229'
+    url: http://www.gutenberg.org/2009/agents/2229
+    wikipedia: http://en.wikipedia.org/wiki/Austin_Craig
+description: 'Translation of: Filipinas dentro de Cien Años'
+gutenberg_issued: '2011-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35899'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines'
+- !lcc 'DS'
+title: The Philippines a Century Hence
+url: http://www.gutenberg.org/ebooks/35899
